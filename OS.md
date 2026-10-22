@@ -51,3 +51,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9238dad9-e080-4f9a-a33e-a5a784a1fac0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4f303f7-2275-419e-aca2-a9c2646e08f8" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/026e3b1e-f212-463d-88e4-66f0a62171db" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51b7fb9a-6410-4478-b654-bcb4bbc4c42f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7105ba8-d8da-4c9a-b043-d2ddbd33449a" />
+SRTF - Preempitive version gives optimal avg waiting time other can be same as that but never less than that
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5a08fc8-bec9-48d5-b0cf-a0e7e8a1c580" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/183a19d1-ac0c-4d28-b6a8-b30a3296928b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed8079d5-03dd-46a3-aaaa-0f9f6b786a64" />
