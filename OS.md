@@ -70,3 +70,5 @@ SRTF - Preempitive version gives optimal avg waiting time other can be same as t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9054187e-35b3-4b2e-8b5a-629f3a8fc83e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2dd7d0d0-300a-456c-9e82-96834d53e7ad" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c200211-3d7e-43aa-801d-01ba0e4f0ce1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d093290-5de8-4cd2-9d9e-509b3a0d700b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/033060d0-5721-4bc2-a235-15d1a4a1cfc4" />
