@@ -57,3 +57,10 @@ SRTF - Preempitive version gives optimal avg waiting time other can be same as t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5a08fc8-bec9-48d5-b0cf-a0e7e8a1c580" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/183a19d1-ac0c-4d28-b6a8-b30a3296928b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed8079d5-03dd-46a3-aaaa-0f9f6b786a64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90a0688d-935d-4d92-be71-d24c1deef7f4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3038a78-9d5e-4183-ac72-893c5f4bac6f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e777f03-15f5-4ea4-9c46-d2bc423b7d9f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a08cb864-55c7-4d41-ba80-77a4ef7c1dc7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17440a84-2d67-4bb3-8727-5a8d3505b3ab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb9b440a-6865-4489-bb48-8098a3248ccf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c98ee9a-8c0c-46dc-95a4-41c4902c79c6" />
