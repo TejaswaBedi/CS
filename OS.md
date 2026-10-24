@@ -72,3 +72,20 @@ SRTF - Preempitive version gives optimal avg waiting time other can be same as t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c200211-3d7e-43aa-801d-01ba0e4f0ce1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d093290-5de8-4cd2-9d9e-509b3a0d700b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/033060d0-5721-4bc2-a235-15d1a4a1cfc4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a3db23f-6d64-4d07-b20a-b743362189d5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a068d5eb-3014-4e8f-9a1d-56538d6ee07f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7e6c5cc-bbca-4b40-a577-2ad7229d6ca5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/650030ab-2e9d-42b4-aabf-7c4c80bd4f41" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5675a58-cce1-4ddb-ad4d-544a707c1b7a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afba823e-ff2f-4272-9816-385982d34cbb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b56c2f2c-8779-4ee8-920e-e69953b5b456" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa446de0-4c03-47ca-807f-ec785760aa26" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcefcb8d-14a6-45e0-89bb-746548a02133" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74ae0574-f635-48e2-b928-66723fdd5b47" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/112a2c2c-a969-47b3-8e52-da99067501ce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e64421d-e5dd-4855-8966-bc9b1e124966" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca5977f4-598c-4c45-9f21-780fb2100cf0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b26490a-3877-47cd-9a85-7c3295fbb7b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c81fc02-42ed-435e-82a4-456bb4d9767e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afdb1e3c-94e2-4ca3-a3db-a0424088cc97" />
+![Uploading image.png…]()
