@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95df7620-8eb7-4887-bafc-b00c0bec3521" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee38a471-9902-4af2-8433-d6e4d919a804" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95df7620-8eb7-4887-bafc-b00c0bec3521" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2b2f771-7886-4bde-b4e0-fb1d0d583550" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8c62742-6cd7-4f09-9ac1-6f5897d71df3" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66d0c90c-c1d4-4d62-ae84-67a76c3af329" />
@@ -88,4 +88,10 @@ SRTF - Preempitive version gives optimal avg waiting time other can be same as t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b26490a-3877-47cd-9a85-7c3295fbb7b0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c81fc02-42ed-435e-82a4-456bb4d9767e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afdb1e3c-94e2-4ca3-a3db-a0424088cc97" />
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06db4cf7-a88b-4bea-9c71-f0ec9c51528a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50739b20-ed3b-4f9b-967c-58ba79217c32" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1188cd4-251e-4235-9fb9-fddf44853415" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84e645e8-f36e-4d8e-99f9-d98852359c92" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07c184ef-7b6c-4986-84bc-e50064d4c73c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d207273-d76c-4087-9983-e007c601b0ca" />
+
