@@ -105,3 +105,15 @@ SRTF - Preempitive version gives optimal avg waiting time other can be same as t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9242d9c6-ef40-4c13-8b48-302258470910" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2e099ed-15f8-43bd-9452-2ac888c5e003" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/deb84a8e-5694-4ca7-8422-30308cd5e7b8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cec35f4-2741-4d6f-85c5-b031a6c88350" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab886cdc-595a-4096-bd8d-f663e96e83b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ce0c2bb-3fe4-4842-8551-610ce391c591" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/320dac92-d13c-4f4a-aef4-4bd367e22db9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ae2203-af42-4692-9518-8fc2351682cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23636701-6c0e-460b-b06e-0e7f1bae1af0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7924adeb-6a45-4ade-abd3-3abaf936de24" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bb262c8-18fc-4c9f-85f2-7bebfc01c550" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3992deb3-94ff-4765-8481-213d9ec8654e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fcc850e-2aab-4754-980b-d10eb5118cef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc3dc15b-35a3-43e4-a655-3b7a751444f5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11a347b8-7e6e-4b5f-bcba-0d40f71ee848" />
